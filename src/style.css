@@ -14,12 +14,6 @@ body{background-color: whitesmoke;
   width: 50%;
   margin-top: 10%;
 }
-
-div{
-  height: 380px;
-  width: 215px;
- 
-}
 .one{
   background: hsl(31, 77%, 52%);
   border-bottom-left-radius: 9px;
