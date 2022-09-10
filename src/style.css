@@ -9,7 +9,7 @@ body{background-color: whitesmoke;
 
 .main {
   display: flex;
-  flex-direction: row;
+  flex-direction: row; 
   margin:0 auto;
   width: 50%;
   margin-top: 10%;
@@ -31,7 +31,7 @@ body{background-color: whitesmoke;
 img{
   padding: 10px;
   margin: 25px 15px;
-  width: 70px;
+  max-width: 70%;
 }
 h1{
   color: hsla(0, 0%, 100%, 0.75);
@@ -57,7 +57,7 @@ button{
 }
 .btn1{
   background-color:rgb(246, 243, 243) ;
-  color:hsl(31, 77%, 52%) 
+  color:hsl(31, 77%, 52%);
 }
 .btn1:hover{
   background-color: hsl(31, 77%, 52%);
