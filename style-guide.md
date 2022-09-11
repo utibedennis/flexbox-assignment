@@ -16,11 +16,10 @@ Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
 ## Typography
 
 ### Body Copy
-
-- Font size: 15px
+- Font size: 11px
 
 ### Font
 
 - Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
 
-- Family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display)
+- Family: [Poppins](https://fonts.google.com/specimen/Poppins)

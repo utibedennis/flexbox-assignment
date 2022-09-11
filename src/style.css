@@ -13,6 +13,7 @@ body{background-color: whitesmoke;
   margin:0 auto;
   width: 50%;
   margin-top: 10%;
+  border: solid blue 3px;
 }
 .one{
   background: hsl(31, 77%, 52%);
@@ -81,4 +82,21 @@ button{
   background-color:hsl(179, 100%, 13%);
   color:hsla(0, 0%, 100%, 0.75);
   cursor:pointer;
+}
+@media screen and (max-width: 500px) {
+  .main {
+    Display:flex;
+    flex-direction: column;
+  }
+  button {
+    margin: 20px 10px;
+  }
+  .one {
+    border-bottom-right-radius: 9px;
+    border-top-right-radius: 9px;
+  }
+  .three {
+    border-bottom-left-radius: 9px;
+  border-top-left-radius: 9px;
+  }
 }
